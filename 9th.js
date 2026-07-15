@@ -1,4 +1,6 @@
-function pattern7(n){
+function pattern9()
+{
+    function pattern7(n){
     let i, j, k, l
     for(i=1; i<=n; i++){
         let row = " "
@@ -34,8 +36,8 @@ function pattern8(n){
     }
 }
 pattern8(5)
-
-
+}
+pattern9()
 
 
 //      *
