@@ -9,3 +9,10 @@ function pattern5(n) {
         }
     }
 pattern5(4)
+
+
+
+// ****
+// ***
+// **
+// *

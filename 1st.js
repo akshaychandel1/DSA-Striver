@@ -11,3 +11,9 @@ function pattern1(n) {
 
 // Direct call! No class, no object needed.
 pattern1(4);
+
+
+// ****
+// ****
+// ****
+// ****
